@@ -1,0 +1,27 @@
+202243501094,Haura Adzra Achmad Fauzi,75,85,96
+202243502741,Adika Pratama,75,85,96
+202243502742,Ryas Andi Pramudipta,75,85,96
+202243502744,Muhammad Dhia Al Haq,75,85,96
+202243502745,Sandri Leonardo Siregar,75,85,96
+202243502746,Aprilianto,75,85,96
+202243502747,Erlangga Nursyahbani,75,85,96
+202243502750,Kasun,75,85,96
+202243502751,Zahra Hanifa M,75,85,96
+202243502753,Agam Yahyah Muhaimin,75,85,96
+202243502758,Julian Bagas Pratama,75,85,96
+202243502762,Aditiya Yudha Baskara,75,85,96
+202243502773,Rayhan Ariffadila,75,85,96
+202243502779,Abdul Rozak Apan,75,85,96
+202243502790,Adimas Yudhan Pratama,75,85,96
+202243502792,Farhan Syauqi Rahman,75,85,96
+202243502793,Esza Maulana Nantarian,75,85,96
+202243502795,Samsul Fahmi Setiawan,75,85,96
+202243502804,Arum Dwi Anggraeni,75,85,96
+202243502805,Aditya Aji Prayoga,75,85,96
+202243502883,Bayu Yudha Pamungkas,75,85,96
+202243502885,Rizky Maulana Donny F,75,85,96
+202243502886,Ucup Surucup,90,70,70
+202243502887,Bambang Sutarjo,88,70,70
+202243502888,Jokowi Dodo,99,99,99
+202243502889,Prabowo Subianto,77,90,90
+202243502890,Ganjar Pranowo,65,83,83
